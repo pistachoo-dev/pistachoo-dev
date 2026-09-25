@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e40c9,100:93c572&height=200&section=header&text=Pistacho%20%F0%9F%A5%9C&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=estudiante%20de%20DAM%20%E2%80%A2%20aprendiendo%20a%20programar%20un%20commit%20cada%20vez&descAlignY=58&descSize=16" alt="Pistacho banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e40c9,100:93c572&height=200&section=header&text=Pistacho%20%F0%9F%A5%9C&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=dev%20%E2%80%A2%20Java%20%E2%80%A2%20MySQL%20%E2%80%A2%20Python%20%E2%80%A2%20picando%20c%C3%B3digo%20a%20diario&descAlignY=58&descSize=16" alt="Pistacho banner" />
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@
 
 ```yaml
 nombre:        Pistacho
-clase:         Aprendiz de desarrollador (DAM)
+clase:         Desarrollador (DAM)
 elemento:      ☕ Java / 🐬 MySQL / 🐍 Python
 arma_favorita: la terminal de Linux
 debilidad:     los punto y coma que se me olvidan
-modo_de_juego: chill — subo lo que voy aprendiendo, sin prisa pero sin pausa
+modo_de_juego: chill — pico código a diario y subo todo lo que construyo
 buff_pasivo:   +10 de concentración con una playlist de openings de fondo 🎧
 ```
 
-Aquí no hay nada súper serio: es mi cuaderno de bitácora. Prácticas de clase, proyectos pequeños, experimentos y cosas que me apetece trastear. Si algo te sirve, genial; si ves algo mejorable, ¡abre un issue y me ayudas a subir de nivel! ✨
+Aquí no hay nada súper serio: es donde vive todo lo que programo. Proyectos, prácticas, herramientas y experimentos que construyo sin parar. Si algo te sirve, genial; si ves algo mejorable, ¡abre un issue y me ayudas a subir de nivel! ✨
 
 ---
 
@@ -75,7 +75,7 @@ Aquí no hay nada súper serio: es mi cuaderno de bitácora. Prácticas de clase
 | 🐍 **Python** | Scripts, mini-herramientas y experimentos |
 | 🧪 **Random** | Cualquier cosa que me dé curiosidad aprender |
 
-> 🍃 *Los repos van apareciendo a medida que avanzo. Como un buen shōnen: el progreso es lento, pero constante.*
+> 🍃 *Siempre hay algo nuevo compilando. Como un buen shōnen: entrenamiento diario, sin días libres.*
 
 ---
 

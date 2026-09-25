@@ -73,7 +73,7 @@ Aquí no hay nada súper serio: es donde vive todo lo que programo. Proyectos, p
 | ☕ **Java** | Ejercicios y prácticas de programación, POO, estructuras de datos |
 | 🐬 **MySQL** | Diseño de BBDD, consultas, scripts SQL |
 | 🐍 **Python** | Scripts, mini-herramientas y experimentos |
-| 🧪 **Random** | Cualquier cosa que me dé curiosidad aprender |
+| 🧪 **Random** | Cualquier cosa que se me ocurra construir |
 
 > 🍃 *Siempre hay algo nuevo compilando. Como un buen shōnen: entrenamiento diario, sin días libres.*
 
